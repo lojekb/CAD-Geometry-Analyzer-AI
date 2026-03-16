@@ -1,0 +1,57 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+artifacts/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+.nuget/
+
+# Visual Studio Code workspace cache
+.history/
+
+# Test results
+TestResults/
+*.trx
+*.cache
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# ReSharper
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+# Coverage & profiling
+coverage/
+*.coverage
+*.coveragexml
+*.prof
+
+# Visual Studio database files
+*.mdf
+*.ldf
+
+# Misc
+*.vsix
+*.ncrunch*
