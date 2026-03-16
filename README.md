@@ -22,7 +22,7 @@ Projekt demonstruje podejście "AI-Augmented Engineering". Narzędzie nie tylko 
 - **Wydajny Parser STL (ASCII):** Przetwarzanie potokowe (line-by-line), minimalizujące zużycie pamięci RAM przy dużych plikach.
 - **Analiza Geometryczna:** Precyzyjne obliczanie pola powierzchni całkowitej oraz wyznaczanie skrajni modelu (Bounding Box).
 - **Lokalny Konsultant AI:** Wykorzystanie modelu Llama 3 do interpretacji wyników technicznych.
-- **Bezpieczeństwo Danych:** Dzięki użyciu Ollamy, dane CAD nie opuszczają lokalnej maszyny (krytyczny wymóg w branży R&D).
+- **Bezpieczeństwo Danych:** Dzięki użyciu Ollamy, dane CAD nie opuszczają lokalnej maszyny.
 
 ## 🏗️ Architektura Techniczna
 Aplikacja została napisana w języku **C# (.NET 8)** z zachowaniem zasad **SOLID**:
